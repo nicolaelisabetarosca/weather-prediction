@@ -1,5 +1,4 @@
-# weather-prediction
-
+# MSc Data Science and Artificial Intelligence dissertation - Nicola Rosca 
 This project is completed by Nicola Rosca, as part of the MSc Data Science and Artificial Intelligence at Goldsmiths, University of London, 2023-24 cohort. 
 
 This thesis is concerned with the long-term forecasting of the temperature in London (UK) and Lima (Peru). Using nine years worth of daily temperature data, the models used in this project are: 
